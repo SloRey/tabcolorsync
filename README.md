@@ -46,7 +46,7 @@ extension. See [Limitations](#limitations) below.
 Two ways to do this:
 
 - **Run the pre-built exe** (easiest, no Python needed) by downloading
-  `color_service.exe` from this repo's Releases page and running it.
+  `color_service.exe` from this repo's [Releases](https://github.com/SloRey/tabcolorsync/releases) page and running it.
 - **Run with Python**:
   ```
   cd service
